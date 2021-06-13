@@ -15,7 +15,7 @@ export default function Home() {
       <UserInformation
         picture="http://github.com/saviorocha.png"
         name="Sávio"
-        rating={5}
+        rating={4}
         description="Distrito Federal"
       />
     </div>
